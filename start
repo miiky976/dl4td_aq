@@ -1,4 +1,4 @@
 #!/bin/bash
 source chamba/bin/activate
 
-jupyter lab --ServerApp.token=3f31f13b6a588a8bd38527c22337b57d76c04f433d6703a6f3cb96e5663dfb40 --no-browser
+jupyter lab --ServerApp.token=3f31f13b6a588a8bd38527c22337b57d76c04f433d6703a6f3cb96e5663dfb40 # --no-browser
